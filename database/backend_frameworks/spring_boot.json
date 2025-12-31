@@ -6,5 +6,13 @@
       "category": "backend-frameworks",
       "subcategory": "spring_boot",
       "language": "english"
+    },
+    {
+      "name": "Baeldung Spring Boot",
+      "description": "Comprehensive Spring Boot tutorials covering basics, advanced topics, and practical examples.",
+      "url": "https://www.baeldung.com/spring-boot",
+      "category": "backend-frameworks",
+      "subcategory": "spring_boot",
+      "language": "english"
     }
 ]
